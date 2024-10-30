@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RaudEduward
-- I'm 17 years old
-- 👀 I’m interested in Python, and I want to be a fullstack developer
+-i have no words, just working.
 
 
 <!---
